@@ -6,20 +6,20 @@ Imagine you want to play around with some advanced image editing like
 
 - applying gaussian or median blur
 - binarizing the image with some threshold
-- performing some edge detection
+- performing edge detection
 - dilate shapes in a binary image or make them smaller
-- find contours in an image and maybe apply them as a mask over the original image
+- finding contours in an image and applying them as a mask over the original image
 
-This all sounds fun and games until you think of actually printing these contours onto a paper. <br>
-Sure, you could just open the SVG in your favourite image viewer and press 'Print'. <br>
+This all sounds like fun and games, however, how do you actually print these contours onto a paper. <br>
+Sure, you could open the SVG in your favourite image viewer and press 'Print'. <br>
 But where's the fun in that? And what if you wanted to cut these contours into a birthday card instead? <br>
 Then you will need a plotter/cutter device. Like the `Silhouette Cameo 4 Pro`, e.g.:
 
 <img alt="An image showing the Silhouette Cameo 4 Pro device." height="100" src="https://www.creativamenteplotter.it/wp-content/uploads/2020/11/Silhouette-Cameo-4-pro-utilizzo.jpg" title="Silhouette Cameo 4 Pro" width="225"/>
 
-## Solution (prototyping in the LearningLab)
+## Preview of outcome (prototyping in the LearningLab)
 
-[//]: # (TODO)
+![Alt text](plotter.gif) / ![](plotter.gif)
 
 ## UI Explained
 
