@@ -19,7 +19,7 @@ Then you will need a plotter/cutter device. Like the `Silhouette Cameo 4 Pro`, e
 
 ## Preview of outcome (prototyping in the LearningLab)
 
-![Alt text](plotter.gif) / ![](plotter.gif)
+![](plotter.gif)
 
 ## UI Explained
 
